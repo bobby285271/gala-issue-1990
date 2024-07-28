@@ -1,0 +1,11 @@
+[io.elementary.wingpanel]
+launch-on-x=true
+args=io.elementary.wingpanel
+
+[io.elementary.desktop.agent-polkit]
+launch-on-x=true
+args=/nix/store/x30a4z2disp1c0zpvz4scp1x3vxh7n2g-pantheon-agent-polkit-8.0.0/libexec/policykit-1-pantheon/io.elementary.desktop.agent-polkit
+
+[io.elementary.dock]
+launch-on-x=false
+args=io.elementary.dock

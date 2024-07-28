@@ -1,0 +1,426 @@
+# Esperanto translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: https://github.com/elementary/gala/issues\n"
+"POT-Creation-Date: 2024-07-18 17:28+0000\n"
+"PO-Revision-Date: 2020-03-14 21:09+0000\n"
+"Last-Translator: Shtonchjo <shtonchjo@gmail.com>\n"
+"Language-Team: Esperanto <https://l10n.elementary.io/projects/desktop/gala/"
+"eo/>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+"X-Launchpad-Export-Date: 2017-02-21 05:47+0000\n"
+
+#: daemon/DBus.vala:82 daemon-gtk3/BackgroundMenu.vala:11
+msgid "Change Wallpaper…"
+msgstr ""
+
+#: daemon/DBus.vala:86 daemon-gtk3/BackgroundMenu.vala:16
+msgid "Display Settings…"
+msgstr ""
+
+#: daemon/DBus.vala:92 daemon-gtk3/BackgroundMenu.vala:22
+msgid "System Settings…"
+msgstr ""
+
+#: daemon/DBus.vala:207 daemon-gtk3/BackgroundMenu.vala:47
+msgid "Failed to open System Settings"
+msgstr ""
+
+#: daemon/DBus.vala:208 daemon-gtk3/BackgroundMenu.vala:48
+msgid "A handler for the “settings://” URI scheme must be installed."
+msgstr ""
+
+#: daemon-gtk3/WindowMenu.vala:36 daemon/WindowMenu.vala:38
+msgid "Hide"
+msgstr ""
+
+#: daemon-gtk3/WindowMenu.vala:49 daemon/WindowMenu.vala:54
+msgid "Move"
+msgstr "Movi"
+
+#: daemon-gtk3/WindowMenu.vala:57 daemon/WindowMenu.vala:64
+msgid "Resize"
+msgstr "Ŝanĝi grandecon"
+
+#: daemon-gtk3/WindowMenu.vala:65 daemon/WindowMenu.vala:74
+msgid "Always on Top"
+msgstr "Ĉiam supre"
+
+#: daemon-gtk3/WindowMenu.vala:73 daemon/WindowMenu.vala:84
+msgid "Always on Visible Workspace"
+msgstr "Ĉiam je vidata laborspaco"
+
+#: daemon-gtk3/WindowMenu.vala:81 daemon/WindowMenu.vala:94
+msgid "Move to Workspace Left"
+msgstr "Movu maldekstren de laborspaco"
+
+#: daemon-gtk3/WindowMenu.vala:89 daemon/WindowMenu.vala:104
+msgid "Move to Workspace Right"
+msgstr "Movu dekstren de laborspaco"
+
+#: daemon-gtk3/WindowMenu.vala:97 daemon/WindowMenu.vala:114
+#, fuzzy
+#| msgid "Screenshots"
+msgid "Take Screenshot"
+msgstr "Ekrankopioj"
+
+#: daemon-gtk3/WindowMenu.vala:105 daemon/WindowMenu.vala:124
+msgid "Close"
+msgstr "Fermi"
+
+#: daemon-gtk3/WindowMenu.vala:138 daemon/WindowMenu.vala:167
+msgid "Untile"
+msgstr ""
+
+#: daemon-gtk3/WindowMenu.vala:138 daemon/WindowMenu.vala:167
+msgid "Unmaximize"
+msgstr "Malmaksimumigi"
+
+#: daemon-gtk3/WindowMenu.vala:140 daemon/WindowMenu.vala:169
+msgid "Maximize"
+msgstr "Maksimumigi"
+
+#: data/gala.metainfo.xml.in:11
+msgid "Multitasking &amp; Window Management"
+msgstr "Plurtaskado kaj Fenestromastrumado"
+
+#: data/gala.metainfo.xml.in:12
+msgid "A window &amp; compositing manager for Pantheon"
+msgstr "Fenestra &amp; komposta mastrumilo por Pantheon"
+
+#: data/gala.metainfo.xml.in:14
+msgid ""
+"A window &amp; compositing manager based on libmutter and designed by "
+"elementary for use with Pantheon."
+msgstr ""
+"Mastrumilo fenestra kaj kunmeta bazita sur libmutter kaj projektita de "
+"elementary por uzado kun Panteono."
+
+#: data/gala.metainfo.xml.in:24
+msgid "elementary, Inc."
+msgstr "elementary, Inc."
+
+#: data/gala.metainfo.xml.in:32 data/gala.metainfo.xml.in:67
+#: data/gala.metainfo.xml.in:92 data/gala.metainfo.xml.in:108
+#: data/gala.metainfo.xml.in:123
+msgid "Improvements:"
+msgstr "Plibonigoj:"
+
+#: data/gala.metainfo.xml.in:34
+#, fuzzy
+#| msgid "Multitasking View"
+msgid "Improve keyboard navigation in Multitasking View"
+msgstr "Panoramo de plurtaskado"
+
+#: data/gala.metainfo.xml.in:35
+msgid "Change panel color at the same time as wallpaper transition"
+msgstr ""
+
+#: data/gala.metainfo.xml.in:36 data/gala.metainfo.xml.in:73
+#: data/gala.metainfo.xml.in:95 data/gala.metainfo.xml.in:110
+#: data/gala.metainfo.xml.in:125
+msgid "Updated translations"
+msgstr "Ĝisdatigitaj tradukoj"
+
+#: data/gala.metainfo.xml.in:69
+msgid ""
+"Changing the wallpaper or going to sleep respects the \"Reduce Motion\" "
+"option"
+msgstr ""
+
+#: data/gala.metainfo.xml.in:70
+msgid "Use appropriate drag-and-drop pointers when moving windows"
+msgstr ""
+
+#: data/gala.metainfo.xml.in:71
+msgid "Fix the issue when gestures in the multitasking view might stop working"
+msgstr ""
+
+#: data/gala.metainfo.xml.in:72
+msgid "Improve dynamic workspaces behaviour with multiple monitors"
+msgstr ""
+
+#: data/gala.metainfo.xml.in:94
+msgid "Improve handling of move-to-workspace shortcut"
+msgstr ""
+
+#: data/gala-multitaskingview.desktop.in:4
+#: data/gala-multitaskingview.desktop.in:6
+msgid "Multitasking View"
+msgstr "Panoramo de plurtaskado"
+
+#: data/gala-multitaskingview.desktop.in:5
+msgid "View all open windows and workspaces"
+msgstr "Rigardi ĉiujn malfermitajn fenestrojn kaj laborspacojn"
+
+#: data/gala-other.desktop.in:4
+msgid "Other"
+msgstr "Aliaj"
+
+#: data/gala-other.desktop.in:5
+msgid "Fallback desktop file for notifications from outdated applications."
+msgstr "Retrodefaŭlta dosiero “.desktop”  por atentigoj el eksdataj aplikaĵoj."
+
+#: lib/App.vala:51
+msgctxt "program"
+msgid "Unknown"
+msgstr ""
+
+#: src/Dialogs.vala:144
+#, c-format
+msgid "“%s” is not responding"
+msgstr ""
+
+#: src/Dialogs.vala:146
+msgid "Application is not responding"
+msgstr ""
+
+#: src/Dialogs.vala:149
+msgid ""
+"You may choose to wait a short while for the application to continue, or "
+"force it to quit entirely."
+msgstr ""
+
+#: src/Dialogs.vala:150
+msgid "Force Quit"
+msgstr ""
+
+#: src/Dialogs.vala:151
+msgid "Wait"
+msgstr ""
+
+#: src/Dialogs.vala:217
+#, c-format
+msgid "“%s” wants to inhibit system shortcuts"
+msgstr ""
+
+#: src/Dialogs.vala:219
+msgid "An application wants to inhibit system shortcuts"
+msgstr ""
+
+#: src/Dialogs.vala:222
+msgid "All system shortcuts will be redirected to the application."
+msgstr ""
+
+#: src/Dialogs.vala:223
+msgid "Allow"
+msgstr ""
+
+#: src/Dialogs.vala:224
+msgid "Deny"
+msgstr ""
+
+#: src/ScreenshotManager.vala:290
+msgid "Screenshots"
+msgstr "Ekrankopioj"
+
+#: src/ScreenshotManager.vala:369
+#, fuzzy
+#| msgid "Screenshots"
+msgid "Screenshot taken"
+msgstr "Ekrankopioj"
+
+#: src/WindowManager.vala:2318
+#, c-format
+msgid "Changes will automatically revert after %i second."
+msgid_plural "Changes will automatically revert after %i seconds."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/WindowManager.vala:2325
+msgid "Keep new display settings?"
+msgstr ""
+
+#: src/WindowManager.vala:2329
+msgid "Keep Settings"
+msgstr ""
+
+#: src/WindowManager.vala:2330
+msgid "Use Previous Settings"
+msgstr ""
+
+#. / TRANSLATORS: %s represents a timestamp here
+#: src/WindowManager.vala:2369
+#, fuzzy, c-format
+#| msgid "Screenshots"
+msgid "Screenshot from %s"
+msgstr "Ekrankopioj"
+
+#, fuzzy
+#~| msgid "Names that are recognized as dock windows for the window switcher"
+#~ msgid "Avoid accidentally selecting windows in the window switcher"
+#~ msgstr ""
+#~ "Nomoj kiuj estas rekonitaj kiel doko-fenestrojn por la fenestro-ŝaltilo"
+
+#, fuzzy
+#~| msgid "Names that are recognized as dock windows for the window switcher"
+#~ msgid "Prevent window titles from being wider than the window switcher"
+#~ msgstr ""
+#~ "Nomoj kiuj estas rekonitaj kiel doko-fenestrojn por la fenestro-ŝaltilo"
+
+#, fuzzy
+#~| msgid "Names that are recognized as dock windows for the window switcher"
+#~ msgid "Correctly set the scale of app icons in the window switcher"
+#~ msgstr ""
+#~ "Nomoj kiuj estas rekonitaj kiel doko-fenestrojn por la fenestro-ŝaltilo"
+
+#~ msgid "applications-other"
+#~ msgstr "applications-other"
+
+#, fuzzy
+#~| msgid "Fix potential crash when taking screenshots"
+#~ msgid "Fix a potential crash when taking screenshots"
+#~ msgstr "Ripari eblan kolapson post ekrankopii"
+
+#, fuzzy
+#~| msgid "Fix potential crash when taking screenshots"
+#~ msgid "Fix a potential crash while changing wallpapers"
+#~ msgstr "Ripari eblan kolapson post ekrankopii"
+
+#, fuzzy
+#~| msgid "Fix potential crash when taking screenshots"
+#~ msgid "Always play shutter sound when taking screenshots"
+#~ msgstr "Ripari eblan kolapson post ekrankopii"
+
+#~ msgid "Show keyboard shortcuts in HeaderBar menus"
+#~ msgstr "Montri fulmklavjn en la supraj menuoj"
+
+#~ msgid "Improve window shadows for legacy apps"
+#~ msgstr "Plibonigi fenestro-ombrojn por malnovaj aplikaĵoj"
+
+#~ msgid "Fix potential crash when taking screenshots"
+#~ msgstr "Ripari eblan kolapson post ekrankopii"
+
+#~ msgid "Fix notification position after changing DPI"
+#~ msgstr "Ripari pozicion de atentigo post ŝanĝi punktan skaladon (DPI)"
+
+#~ msgid "Fix animations for moving and maximizing tiled windows"
+#~ msgstr "Ripari movbildojn por movo kaj maksimumigo de kaheligitaj fenestroj"
+
+#~ msgid "multitasking-view"
+#~ msgstr "multitasking-view"
+
+#~ msgid "Does the display look OK?"
+#~ msgstr "Ĉu la ekrano aspektas bone?"
+
+#~ msgid "Keep This Configuration"
+#~ msgstr "Konservi la Agordojn"
+
+#~ msgid "Restore Previous Configuration"
+#~ msgstr "Restaŭri la Antaŭajn Agordojn"
+
+#~ msgid "Minimize"
+#~ msgstr "Minimumigi"
+
+#~ msgid "Action for the top left corner"
+#~ msgstr "Ago por la supra-maldekstra angulo"
+
+#~ msgid "Algorithm for window overview layout"
+#~ msgstr "Algoritmo por ekrana aranĝo de fenestra super-rigardo"
+
+#~ msgid "Choose the algorithm used for exposing the windows."
+#~ msgstr "Elektu la algoritmon uzitan por videbligi fenestrojn."
+
+#~ msgid "Action for the top right corner"
+#~ msgstr "Ago por la supra-dekstra angulo"
+
+#~ msgid "Action for the bottom left corner"
+#~ msgstr "Ago por la malsupra-maldekstra angulo"
+
+#~ msgid "Action for the bottom right corner"
+#~ msgstr "Ago por la malsupra-dekstra angulo"
+
+#~ msgid ""
+#~ "If you just put a single command, it will be used for every hot corner "
+#~ "assigned to 'custom-command'. If you instead use the pattern 'hotcorner-"
+#~ "topleft:command;;hotcorner-bottomright:command' the specific commands "
+#~ "will be used per hotcorner. Possible identifiers are 'hotcorner-[topleft; "
+#~ "topright; bottomleft; bottomright]' followed by a ':' and then the "
+#~ "command. ';;' is used as delimiter between command defintions."
+#~ msgstr ""
+#~ "Se oni enigas ununuran instrukcion, tiu estos uzita por ĉiu fulmoangula "
+#~ "ago atribuita al “custom-command”. Se oni, anstataŭe, uzas la ŝablonon "
+#~ "'hotcorner-topleft:instrukcio;;hotcorner-bottomright:instrukcio', la "
+#~ "specifaj instrukcioj estos uzita por ĉiu koresponda fulmoangulo. Eblaj "
+#~ "identigiloj estas 'hotcorner-[topleft; topright; bottomleft; "
+#~ "bottomright]' sekve de unu ':' kaj tuj post la dezirata instrukcio. Oni "
+#~ "uzas ';;' kiel apartigilon inter instrukcio-difinoj."
+
+#~ msgid "Enable edge tiling when dropping windows on screen edges"
+#~ msgstr "Ŝalti ĉe-randan kaheligon post demeto de fenestroj al ekrano-randoj"
+
+#~ msgid ""
+#~ "If enabled, dropping windows on vertical screen edges maximizes them "
+#~ "vertically and resizes them horizontally to cover half of the available "
+#~ "area. Dropping windows on the top screen edge maximizes them completely."
+#~ msgstr ""
+#~ "Se ŝaltita, demeto de fenestroj al flanko de la ekrano maksimumigas ilin "
+#~ "vertikale, kaj ŝanĝas ilian grandecon horizontale, tiel ke ili kovras "
+#~ "duonon de disponebla areo. Demeti fenestron al supra parto de la ekrano "
+#~ "maksimumigas ĝin, tiel ke ĝi kovras tuton de la disponebla areo."
+
+#~ msgid "Panel main menu action"
+#~ msgstr "Ago por ĉefa menuo de Panelo"
+
+#, fuzzy
+#~ msgid ""
+#~ "Sets the command to run when the panel-main-menu keybinding is pressed."
+#~ msgstr ""
+#~ "Agordas la instrukcion lanĉotan post premo de klavkombino “panelo-ĉef-"
+#~ "menuo”."
+
+#~ msgid "Enable dynamic workspace instead of static ones"
+#~ msgstr "Ŝalti movantan laborspacaron anstataŭ fiksan"
+
+#~ msgid ""
+#~ "Use a dynamically increasing or decreasing number, as needed, of "
+#~ "workspaces instead of a static, fixed number."
+#~ msgstr ""
+#~ "Laŭnecese uzi mem-obligantan aŭ mem-onigantan nombron de laborspacoj, "
+#~ "anstataŭ fiksan nombron."
+
+#~ msgid ""
+#~ "When launching the window-switcher, Gala iterates over this list and "
+#~ "attempts to find a window matching the names. If it does, it will hide "
+#~ "this window and fade it back in, once the the switcher is closed."
+#~ msgstr ""
+#~ "Post lanĉo de fenestro-ŝaltilo, Gala trairas ĉi tiun liston kaj provas "
+#~ "trovi fenestron kun samaj nomoj. Se sukcese, ĝi kaŝas ĉi tiun fenestron, "
+#~ "kaj nur montros ĝin denove post kiam ŝaltilo estos fermita."
+
+#~ msgid "Automatically move maximized windows to a new workspace"
+#~ msgstr "Aŭtomate movi maksimumigitajn fenestrojn al nova laborspaco"
+
+#~ msgid "Shortcut to move to first workspace"
+#~ msgstr "Fulmoklavo por movi al unua laborspaco"
+
+#~ msgid "Shortcut to move to last workspace"
+#~ msgstr "Fulmoklavo por movi al lasta laborspaco"
+
+#~ msgid "Shortcut to move the current window to first workspace"
+#~ msgstr "Fulmoklavo por movi nunan fenestron al unua laborspaco"
+
+#~ msgid "Shortcut to move the current window to last workspace"
+#~ msgstr "Fulmoklavo por movi nunan fenestron al lasta laborspaco"
+
+#~ msgid "Zoom in"
+#~ msgstr "Zomi"
+
+#~ msgid "Zoom out"
+#~ msgstr "Malzomi"
+
+#~ msgid "Shortcut to open the window overview"
+#~ msgstr "Fulmoklavo por malfermi fenestran super-rigardon"
+
+#~ msgid "Shortcut to open the window overview for all windows"
+#~ msgstr "Fulmoklavo por malfermi fenestran super-rigardon por ĉiuj fenestroj"
