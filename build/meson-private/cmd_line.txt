@@ -1,0 +1,16 @@
+[options]
+auto_features = enabled
+wrap_mode = nodownload
+prefix = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28
+bindir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/bin
+includedir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/include
+infodir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/share/info
+libdir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/lib
+libexecdir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/libexec
+localedir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/share/locale
+mandir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/share/man
+sbindir = /nix/store/mjk0qhf6v3xdsb8pv3xibgp9ms4gcjfq-gala-7.1.3-unstable-2024-07-28/sbin
+buildtype = plain
+
+[properties]
+

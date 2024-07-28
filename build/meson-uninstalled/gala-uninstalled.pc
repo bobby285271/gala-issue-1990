@@ -1,0 +1,11 @@
+prefix=/home/bobby285271/nixpkgs/source/build
+includedir=${prefix}/include
+libdir=${prefix}/lib
+srcdir=/home/bobby285271/nixpkgs/source
+
+Name: Gala
+Description: Library to develop plugins for Gala
+Version: 7.1.3
+Requires: glib-2.0 >=  2.74.0, gobject-2.0 >=  2.74.0, gio-2.0 >=  2.74.0, gio-unix-2.0 >=  2.74.0, libmutter-14 <  47, libmutter-14 >=  46
+Libs: -L${prefix}/lib -lgala
+Cflags: -I${prefix} -I${srcdir} -I${prefix}/lib -I${srcdir}/lib

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019-2023 elementary, Inc. <contact@elementary.io> -->
+<component>
+  <id>io.elementary.gala</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <translation type="gettext">gala</translation>
+  <icon type="stock">preferences-desktop-workspaces</icon>
+  <name>Multitasking &amp; Window Management</name>
+  <name xml:lang="zh_CN">多任务处理 &amp;amp; 窗口管理</name>
+  <name xml:lang="uk">Багатозадачність та Керування вікнами</name>
+  <name xml:lang="tr">Çoklu Görev ve Pencere Yönetimi</name>
+  <name xml:lang="szl">Zarzōndzanie ôknami i multitaskingym</name>
+  <name xml:lang="sr">Управљање прозорима и са више задатака</name>
+  <name xml:lang="sl">Večopravilnost in upravljanje z okni</name>
+  <name xml:lang="sk">Zobrazenie úloh a správa okien</name>
+  <name xml:lang="ru">Многозадачность и управление окнами</name>
+  <name xml:lang="pt_BR">Multitarefa  &amp;amp; Gerenciamento de janela</name>
+  <name xml:lang="pt">Multitarefa e Gestão de janelas</name>
+  <name xml:lang="pl">Wielozadaniowość &amp;amp; Zarządzanie oknem</name>
+  <name xml:lang="nn">Multitasking og handsaming av vindauge</name>
+  <name xml:lang="nl">Multitasken &amp;amp; Venster Management</name>
+  <name xml:lang="mr">मल्टीटास्किंग आणि विंडो व्यवस्थापन</name>
+  <name xml:lang="ko">멀티태스킹 &amp;amp; 창 관리</name>
+  <name xml:lang="ka">მრავალამოცანიანობა და ფანჯრების მართვა</name>
+  <name xml:lang="ja">マルチタスクとウィンドウ管理</name>
+  <name xml:lang="it">Multitasking e gestione delle finestre</name>
+  <name xml:lang="id">Multi Tugas &amp;amp; Manajemen Jendela</name>
+  <name xml:lang="hu">Feladat- és ablakkezelés</name>
+  <name xml:lang="he">ניהול ריבוי משימות וחלונות</name>
+  <name xml:lang="fr">Multitâche et gestion des fenêtres</name>
+  <name xml:lang="fi">Moniajo ja ikkunahallinta</name>
+  <name xml:lang="es">Multitarea y gestión de ventanas</name>
+  <name xml:lang="eo">Plurtaskado kaj Fenestromastrumado</name>
+  <name xml:lang="en_GB">Multitasking &amp;amp; Window Management</name>
+  <name xml:lang="en_AU">Multitasking &amp;amp; Window Management</name>
+  <name xml:lang="de">Arbeitsflächen- &amp;amp; Fensterverwaltung</name>
+  <name xml:lang="da">Multitasking &amp;amp; Vindue Administration</name>
+  <name xml:lang="cs">Víceúlohové zobrazení a správa oken</name>
+  <name xml:lang="ckb">مەڵتیتاسکینگ &amp;amp; بەڕێوەبردنی پەنجەرە</name>
+  <name xml:lang="ca">Multitasca i gestió de finestres</name>
+  <name xml:lang="ar">تعدد المهام وإدارة النوافذ</name>
+  <summary>A window &amp; compositing manager for Pantheon</summary>
+  <summary xml:lang="zh_CN">基于 Pantheon 桌面环境的窗口&amp;amp;管理器</summary>
+  <summary xml:lang="uk">Віконний менеджер та композитор для Pantheon</summary>
+  <summary xml:lang="tr">Pantheon için bir pencere yöneticisi</summary>
+  <summary xml:lang="szl">Mynedżer ôkyn i kōmpozytingu do Pantheonu</summary>
+  <summary xml:lang="sr">Композитни и управник прозора за Пантеона</summary>
+  <summary xml:lang="sl">Upravljalnik z okni za Pantheon</summary>
+  <summary xml:lang="sk">Správca kompozície a okien pre Pantheon</summary>
+  <summary xml:lang="ru">Оконный менеджер и композитор для Pantheon</summary>
+  <summary xml:lang="pt_BR">Um gerenciador de janelas &amp;amp; e composição para o Pantheon</summary>
+  <summary xml:lang="pt">Um gestor de janelas e composição para o Pantheon</summary>
+  <summary xml:lang="pl">Menadżer okien i kompozytor dla Pantheon</summary>
+  <summary xml:lang="nn">Eit program for samansetning av vindauge i Pantheon</summary>
+  <summary xml:lang="nl">Een venster &amp;amp; schermindeling manager voor Pantheon</summary>
+  <summary xml:lang="mr">पँथिओनसाठी एक विंडो आणि कम्पोझिटिंग व्यवस्थापक</summary>
+  <summary xml:lang="ko">Pantheon 창 &amp;amp; 합성 관리자</summary>
+  <summary xml:lang="ja">Pantheon 向けのコンポジット型ウィンドウマネージャー</summary>
+  <summary xml:lang="it">Un gestore finestre e compositing per Pantheon</summary>
+  <summary xml:lang="id">Manajer jendela &amp;amp; pengomposisian untuk Pantheon</summary>
+  <summary xml:lang="hu">Egy ablak- és megjelenítéskezelő a Pantheon számára</summary>
+  <summary xml:lang="he">מנהל הרכבת חלונות עבור Pantheon</summary>
+  <summary xml:lang="fr">Un gestionnaire de fenêtres et de positionnement pour Panthéon</summary>
+  <summary xml:lang="fi">Ikkuna- ja kompositointihallinta Pantheonille</summary>
+  <summary xml:lang="es">Un gestor y compositor de ventanas para Pantheon</summary>
+  <summary xml:lang="eo">Fenestra &amp;amp; komposta mastrumilo por Pantheon</summary>
+  <summary xml:lang="en_GB">A window &amp;amp; compositing manager for Pantheon</summary>
+  <summary xml:lang="en_AU">A window &amp;amp; compositing manager for Pantheon</summary>
+  <summary xml:lang="de">Eine Fenster- &amp;amp; Compositing-Verwaltung für Pantheon</summary>
+  <summary xml:lang="da">En vindues &amp;amp; kompositions administrator til Pantheon</summary>
+  <summary xml:lang="cs">Správce kompozice a oken pro Pantheon</summary>
+  <summary xml:lang="ckb">پەنجەرەیەک &amp;amp; بەڕێوەبەری کەمپەزیشن بۆ پانسیۆن</summary>
+  <summary xml:lang="ca">Un gestor de finestres i de composició per al Pantheon</summary>
+  <summary xml:lang="ar">مدير نوافذ ل Pantheon</summary>
+  <description>
+    <p>A window &amp; compositing manager based on libmutter and designed by elementary for use with Pantheon.</p>
+    <p xml:lang="zh_CN">elementary 为 Pantheon 桌面环境设计的基于 libmutter 的窗口&amp;amp;管理器。</p>
+    <p xml:lang="uk">Віконний менеджер та композитор створений на libmutter та розроблений elementary для роботи з Pantheon.</p>
+    <p xml:lang="tr">Pantheon ile kullanılmak üzere libmutter temel alınan ve elementary tarafından tasarlanmış bir pencere yöneticisi.</p>
+    <p xml:lang="szl">Mynedżer ôkyn i kōmpozytingu ôparty ô libmutter i zbudowany ôd elementary do używanio ze Pantheonym.</p>
+    <p xml:lang="sr">Композитни и управник прозора заснован на „libmutter“ и осмишљен елементаријем за коришћење са Пантеоном.</p>
+    <p xml:lang="sl">Upravljalnik z okni osnovan na libmutter in oblikovan s strani elementary za uporabo s Pantheonom.</p>
+    <p xml:lang="sk">Správca okien a kompozície založený na libmutter a navrhnutý tímom elementary pre použitie s Pantheon.</p>
+    <p xml:lang="ru">Оконный менеджер и композитор на основе libmutter, разработанный elementary для использования в Pantheon.</p>
+    <p xml:lang="pt_BR">Um gerenciador de janelas &amp;amp; e composição baseado no libmutter e projetado pelo elementary para uso com o Pantheon.</p>
+    <p xml:lang="pt">Um gestor de janelas e composição baseado em libmutter e projetado pelo elementary para uso com o Pantheon.</p>
+    <p xml:lang="pl">Menedżer okien i kompozytor oparty na libmutter i zaprojektowany przez elementary do użytku z Pantheon.</p>
+    <p xml:lang="nn">Eit program for samansetning av vindauge basert på libmutter, og designa av elementary for bruk saman med Pantheon.</p>
+    <p xml:lang="nl">A venster &amp;amp; schermindeling manager gebaseerd op libmutter and en ontwikkeld door elementary voor gebruik met Pantheon.</p>
+    <p xml:lang="mr">लिंबमुटरवर आधारीत एक विंडो आणि कम्पोझिटिंग मॅनेजर पॅन्थिओन सह वापरासाठी प्राथमिक द्वारे डिझाइन केलेले.</p>
+    <p xml:lang="ko">창 &amp;amp; 합성 관리자는 libmutter 기반이며 Pantheon을 위해 elementary가 디자인했습니다.</p>
+    <p xml:lang="ja">libmutter ベースのコンポジット型ウィンドウマネージャーです。elementary が Pantheon 向けにデザインしました。</p>
+    <p xml:lang="it">Un gestore di finestre e compositing basato su libmutter e progettato da elementary per essere utilizzato con Pantheon.</p>
+    <p xml:lang="id">Manajer jendela &amp;amp; pengomposisian berdasarkan libmutter dan dirancang oleh elementary untuk digunakan dengan Pantheon.</p>
+    <p xml:lang="hu">Egy ablak- és megjelenítéskezelő, ami libmutter alapú és az elementary számára lett tervezve a Pantheonnal való használatra.</p>
+    <p xml:lang="he">מנהל הרכבת חלונות שמבוסס על libmutter ותוכנן על ידי elementary לעבוד עם Pantheon.</p>
+    <p xml:lang="fr">Un gestionnaire de fenêtres et de positionnement basé sur libmutter et conçu par elementary pour être utilisé avec Panthéon.</p>
+    <p xml:lang="fi">Ikkuna- ja kompositointihallinta pohjautuen libmutteriin, suunniteltu Pantheoniin elementaryn toimesta.</p>
+    <p xml:lang="es">Un gestor y compositor de ventanas basado en libmutter y diseñado por elementary para su uso con Pantheon.</p>
+    <p xml:lang="eo">Mastrumilo fenestra kaj kunmeta bazita sur libmutter kaj projektita de elementary por uzado kun Panteono.</p>
+    <p xml:lang="en_GB">A window &amp;amp; compositing manager based on libmutter and designed by elementary for use with Pantheon.</p>
+    <p xml:lang="en_AU">A window &amp;amp; compositing manager based on libmutter and designed by elementary for use with Pantheon.</p>
+    <p xml:lang="de">Eine Fenster- &amp;amp; Compositing-Verwaltung basierend auf libmutter, entwickelt von elementary für die Verwendung mit Pantheon.</p>
+    <p xml:lang="da">En vindues &amp;amp; kompositions administrator baseret på libmutter og designet af elementary til brug med Pantheon.</p>
+    <p xml:lang="cs">Správce oken a kompozice založený na libmutter a navržený elementary pro použití s Pantheon.</p>
+    <p xml:lang="ckb">پەنجەرەیەکی &amp;amp; بەڕێوەبەری کەمپەزشن لەسەر لیبمەتەر و نەخشێندراوە بۆ ئێلەمێنتەری بۆ بەکارهێنانی لەگەڵ پانسیۆن.</p>
+    <p xml:lang="ca">Un gestor de finestres i de composició basat en libmutter i dissenyat per l'elementary per usar amb el Pantheon.</p>
+    <p xml:lang="ar">مدير نوافذ مبني على libmutter ومصمم من قبل elementary للاستخدام مع Pantheon.</p>
+  </description>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/gala/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://github.com/elementary/gala/discussions/categories/q-a</url>
+  <url type="translate">https://l10n.elementary.io/engage/desktop/</url>
+  <developer id="org.elementaryos">
+    <name>elementary, Inc.</name>
+  </developer>
+  <project_group>elementary</project_group>
+  <update_contact>contact_at_elementary.io</update_contact>
+  <releases>
+    <release version="8.0.0" date="2024-07-18" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Improve keyboard navigation in Multitasking View</li>
+          <li>Change panel color at the same time as wallpaper transition</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/6">Can't navigate open windows with keyboard when doing Super+A</issue>
+        <issue url="https://github.com/elementary/gala/issues/297">Add an API to remember window position</issue>
+        <issue url="https://github.com/elementary/gala/issues/348">UX: It's too easy to trigger the action "Close All Windows in Workspace" when switching between workspaces with mouse</issue>
+        <issue url="https://github.com/elementary/gala/issues/765">The notifications appear on the right side, they should be in Arabic on the left</issue>
+        <issue url="https://github.com/elementary/gala/issues/927">Workspace bump animation on non-primary display</issue>
+        <issue url="https://github.com/elementary/gala/issues/979">Add gesture to switch between windows on a touchpad</issue>
+        <issue url="https://github.com/elementary/gala/issues/1287">Visual artifacts when swiping workspaces with touchpad</issue>
+        <issue url="https://github.com/elementary/gala/issues/1317">Add a Gesture option to scroll and switch between open windows, similar to Alt Tab</issue>
+        <issue url="https://github.com/elementary/gala/issues/1377">API for launching or switching a particular app ID</issue>
+        <issue url="https://github.com/elementary/gala/issues/1545">Draw rounded corners on workspaces in multitasking view</issue>
+        <issue url="https://github.com/elementary/gala/issues/1648">Option to Disable/Enable Hot Corners</issue>
+        <issue url="https://github.com/elementary/gala/issues/1657">Window switcher mouse interaction issue</issue>
+        <issue url="https://github.com/elementary/gala/issues/1727">opening multitasking view can crash gala</issue>
+        <issue url="https://github.com/elementary/gala/issues/1796">Blur wallpaper behind multitasking view</issue>
+        <issue url="https://github.com/elementary/gala/issues/1799">Last gap in the rightmost workspace has it size doubled when revealed using gestures</issue>
+        <issue url="https://github.com/elementary/gala/issues/1813">Primary monitor grey background</issue>
+        <issue url="https://github.com/elementary/gala/issues/1815">Grey lines on primary monitor top and bottom</issue>
+        <issue url="https://github.com/elementary/gala/issues/1823">API for display labels</issue>
+        <issue url="https://github.com/elementary/gala/issues/1824">add support for libmutter-14</issue>
+        <issue url="https://github.com/elementary/gala/issues/1826">Missing gala-daemon systemd service</issue>
+        <issue url="https://github.com/elementary/gala/issues/1834">WindowSwitcher doesn't use accent color anymore</issue>
+        <issue url="https://github.com/elementary/gala/issues/1841">Changing wallpaper makes the background go grey</issue>
+      </issues>
+    </release>
+    <release version="7.1.3" date="2023-11-09" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Changing the wallpaper or going to sleep respects the "Reduce Motion" option</li>
+          <li>Use appropriate drag-and-drop pointers when moving windows</li>
+          <li>Fix the issue when gestures in the multitasking view might stop working</li>
+          <li>Improve dynamic workspaces behaviour with multiple monitors</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/506">After login there is always 2 unpopulated workspaces open.</issue>
+        <issue url="https://github.com/elementary/gala/issues/695">Wrong workspaces behavior</issue>
+        <issue url="https://github.com/elementary/gala/issues/1109">Use gestures for "move to workspace"</issue>
+        <issue url="https://github.com/elementary/gala/issues/1261">Alt + Shift unnecessarily blocked when there is only one keyboard layout</issue>
+        <issue url="https://github.com/elementary/gala/issues/1518">Multitasking view breaks when switching displays &amp; strange Wingpanel position</issue>
+        <issue url="https://github.com/elementary/gala/issues/1750">Disconnecting external monitor breaks the multi-tasking view</issue>
+        <issue url="https://github.com/elementary/gala/issues/1753">Workspace wallpaper's aspect ratio with different monitors</issue>
+        <issue url="https://github.com/elementary/gala/discussions/1764">Counter Strike 2 causes segfault in libmutter on exit</issue>
+        <issue url="https://github.com/elementary/gala/issues/1774">Scheduled switch to dark style does not dim the wallpaper after cold reboot on elementary OS 7.1</issue>
+        <issue url="https://github.com/elementary/gala/issues/1783">Notifications appear in the middle of the screen</issue>
+      </issues>
+    </release>
+    <release version="7.1.2" date="2023-08-10" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Improve handling of move-to-workspace shortcut</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/573">Windows that start maximized or fullscreened should respect “Move windows to a new workspace”</issue>
+        <issue url="https://github.com/elementary/gala/issues/1004">Wallpaper in workspace clone and wallpaper clone should have the same style</issue>
+        <issue url="https://github.com/elementary/gala/issues/1704">Use dark wallpaper in dark mode when available</issue>
+        <issue url="https://github.com/elementary/gala/issues/1728">invisible windows in multitasking view after workspace switch, if done quickly</issue>
+      </issues>
+    </release>
+    <release version="7.1.1" date="2023-07-06" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/1331">Dialog dim won't go off on gtk app</issue>
+        <issue url="https://github.com/elementary/gala/issues/1700">PiP doesn't become visible by changing workspaces</issue>
+        <issue url="https://github.com/elementary/gala/issues/1706">Alt+Tab switcher's background is always dark</issue>
+        <issue url="https://github.com/elementary/gala/issues/1712">gala 7.1.0-1 crashes on Arch</issue>
+      </issues>
+    </release>
+    <release version="7.1.0" date="2023-06-26" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/1091">Accessibility grayscale and colourblind filters</issue>
+      </issues>
+    </release>
+    <release version="7.0.3" date="2023-05-01" urgency="medium">
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/124">Navigate with arrow keys while holding ALT+TAB</issue>
+        <issue url="https://github.com/elementary/gala/issues/508">Multitasking View open/close doesn't respect animations key</issue>
+        <issue url="https://github.com/elementary/gala/issues/536">Enable "Alt + ~" to switch between windows of the same application</issue>
+        <issue url="https://github.com/elementary/gala/issues/1343">Minimizing a single open application and then immediately doing alt+tab breaks the switcher and the session</issue>
+        <issue url="https://github.com/elementary/gala/issues/1355">Issue with rounded corners of window switcher</issue>
+        <issue url="https://github.com/elementary/gala/issues/1547">Window switcher doesn't respect animations key</issue>
+        <issue url="https://github.com/elementary/gala/issues/1641">Docks are placed under workspaces when animating</issue>
+        <issue url="https://github.com/elementary/gala/issues/1658">Topmost window is dimmed instead of modal's parent window</issue>
+      </issues>
+    </release>
+    <release version="7.0.2" date="2023-04-03" urgency="medium">
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/705">Notification windows don't appear in multitasking</issue>
+        <issue url="https://github.com/elementary/gala/issues/743">Keyboard media controls do not work when in "Show all windows" view</issue>
+        <issue url="https://github.com/elementary/gala/issues/913">Holding on keyboard shortcut to activate the action only once</issue>
+        <issue url="https://github.com/elementary/gala/issues/1059">Improper animation when use Multitasking View and Show all windows one after another</issue>
+        <issue url="https://github.com/elementary/gala/issues/1089">Maximise current window hot corner shouldn't maximise every app</issue>
+        <issue url="https://github.com/elementary/gala/issues/1229">Notification bubble appears in wrong corner on one workspace</issue>
+        <issue url="https://github.com/elementary/gala/issues/1347">Parity between right-clicking titlebars/headerbars on mouse and touchpad</issue>
+        <issue url="https://github.com/elementary/gala/issues/1387">Window menu sluggish/inoperative for apps with flathub origin</issue>
+        <issue url="https://github.com/elementary/gala/issues/1566">Hotkeys are not working with non-EN keyboard layout</issue>
+        <issue url="https://github.com/elementary/gala/issues/1578">Closing a window in multitasking view closes multitasking view</issue>
+        <issue url="https://github.com/elementary/gala/issues/1584">When 2 windows are tiled and then resized, the inactive one gets glitched, leaving its full-sized picture as an artifact when minimized</issue>
+        <issue url="https://github.com/elementary/gala/issues/1607">Picture-in-Picture drag seems to snap to a grid</issue>
+      </issues>
+    </release>
+    <release version="7.0.1" date="2023-02-27" urgency="medium">
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/24">Workspace switching shortcuts don't work in Multitasking View</issue>
+        <issue url="https://github.com/elementary/gala/issues/410">Multimedia keys are not working within multitasking view</issue>
+        <issue url="https://github.com/elementary/gala/issues/507">Close buttons in Multitasking View don't respect animations key</issue>
+        <issue url="https://github.com/elementary/gala/issues/510">PiP doesn't respect animations key</issue>
+        <issue url="https://github.com/elementary/gala/issues/849">Picture-in-Picture area selection being offset</issue>
+        <issue url="https://github.com/elementary/gala/issues/975">Accidental middle click to close workspace</issue>
+        <issue url="https://github.com/elementary/gala/issues/1081">"Move to Workspace" window menu action doesn't match what the Keyboard Shortcut do</issue>
+        <issue url="https://github.com/elementary/gala/issues/1185">Unmaximize effect not working with mutter &gt;= 3.38</issue>
+        <issue url="https://github.com/elementary/gala/issues/1203">Artifact around non native apps in the overview mode</issue>
+        <issue url="https://github.com/elementary/gala/issues/1478">PiP: Log spam on elementary OS 7.0</issue>
+        <issue url="https://github.com/elementary/gala/issues/1482">Duplicate "Plus" workspaces</issue>
+        <issue url="https://github.com/elementary/gala/issues/1483">Wingpanel and applications menu stretch in multitasking view</issue>
+        <issue url="https://github.com/elementary/gala/issues/1505">"Not responding" dialog and not responding app close after inactivity</issue>
+        <issue url="https://github.com/elementary/gala/issues/1517">The second time I click on a workspace, all applications in that workspace close</issue>
+        <issue url="https://github.com/elementary/gala/issues/1536">Several (un-)maximize animations are not played</issue>
+        <issue url="https://github.com/elementary/gala/pull/1554">IconGroup: Make close button respect animations key</issue>
+      </issues>
+    </release>
+    <release version="7.0.0" date="2023-01-05" urgency="medium">
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/1456">Crash when receiving notifications</issue>
+        <issue url="https://github.com/elementary/gala/issues/1443">Window switcher shadow persists until overdrawn</issue>
+        <issue url="https://github.com/elementary/gala/issues/1484">Quickly zooming in and out breaks zoom</issue>
+        <issue url="https://github.com/elementary/gala/issues/1481">Slow workspace switching animation in Multitasking View</issue>
+      </issues>
+    </release>
+    <release version="6.3.3" date="2022-10-16" urgency="medium">
+      <issues>
+        <issue url="https://github.com/elementary/gala/issues/1474">Can not resize Picture-in-Picture window</issue>
+        <issue url="https://github.com/elementary/gala/issues/1473">Clicking wallpaper does not quit Multitasking view</issue>
+      </issues>
+    </release>
+    <release version="6.3.2" date="2022-10-12" urgency="medium"/>
+  </releases>
+</component>
